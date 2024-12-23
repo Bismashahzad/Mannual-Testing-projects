@@ -1,0 +1,16 @@
+PerfectX - Photo Editing App (Testing Phase)
+PerfectX is a full-featured photo editing app offering a wide range of tools to enhance and transform your photos. Currently, the app is in the testing phase, and this repository is dedicated to tracking bugs, improvements, and features during testing.
+
+As part of the testing process, I will be uploading an Excel sheet that details test cases, test results, and any identified bugs for review.
+
+Features
+Crop and Rotate: Adjust and reorient images with ease.
+Filters: Apply a variety of filters to enhance the image.
+Adjustments: Tweak brightness, contrast, saturation, and sharpness.
+Text and Stickers: Add customizable text and fun stickers.
+Effects: Apply effects like blur, vignette, and other special features.
+Collage Maker: Combine multiple images into creative collages.
+Testing Details
+Excel sheets will be uploaded to document test cases, results, and any issues encountered during the testing process.
+The test cases will cover functional testing, UI/UX testing, performance testing, and bug reporting.
+Feedback and suggestions for improvements are welcomed.
